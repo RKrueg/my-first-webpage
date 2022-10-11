@@ -1,0 +1,13 @@
+h1 {
+  color:rgb(155, 44, 116);
+  font-size: 50px;
+  font-variant-caps: all-small-caps;
+}
+
+img {
+  width: 30%;
+  display: block;
+}
+body {
+  text-align: left;
+}
