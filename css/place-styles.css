@@ -1,0 +1,20 @@
+head {
+  font-size: larger;
+}
+h1 {
+  font-size: 50px;
+  color: rgb(62, 5, 84);
+}
+h2 {
+  color: rgb(62, 5, 84);
+  font-size: 30px;
+}
+img {
+  width: 50%;
+  display: block;
+}
+body {
+  font-style: normal;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
