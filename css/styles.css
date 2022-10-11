@@ -1,13 +1,26 @@
 h1 {
-  color:rgb(155, 44, 116);
+  color:rgb(240, 128, 168);
   font-size: 50px;
   font-variant-caps: all-small-caps;
+  font-style: bold;
+}
+h2 {
+  font-weight: 500;
 }
 
 img {
-  width: 30%;
+  width: 40%;
   display: block;
+  margin: 5%;
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+
+
 }
 body {
   text-align: left;
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-size: larger;
+  line-height: normal;
 }
